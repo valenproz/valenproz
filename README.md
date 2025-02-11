@@ -1,4 +1,4 @@
-## Hi there, I'm Valentina 👋 ![Jubilee-gif](https://giffiles.alphacoders.com/127/12795.gif)<img src="https://giffiles.alphacoders.com/127/12795.gif" alt="Jubilee-gif" width="88.5" height="83.5">
+## Hi there, I'm Valentina! <img src="https://giffiles.alphacoders.com/127/12795.gif" alt="Jubilee-gif" width="88.5" height="83.5">
 
 
 
