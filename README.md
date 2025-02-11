@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff942,100:e0b310&height=240&text=Welcome!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff942,100:e0b310&height=240&text=Welcome!&animation=fadeIn&fontColor=ffffff&fontSize=60" /> <img src="https://giffiles.alphacoders.com/127/12795.gif" alt="Jubilee-gif" width="59" height="55.67">
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F656&width=435&lines=Hello!+My+name+is+Valentina)](https://git.io/typing-svg)
