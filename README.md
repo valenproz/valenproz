@@ -1,7 +1,3 @@
-## Hi there, I'm Valentina! <img src="https://giffiles.alphacoders.com/127/12795.gif" alt="Jubilee-gif" width="59" height="55.67">
-
-
-
 <!--
 **valenproz/valenproz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
