@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7CC5A&width=435&lines=Hello!+%E2%9C%A8My+name+is+Valentina%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7CC5A&width=600&lines=Hello!+%E2%9C%A8My+name+is+Valentina%E2%9C%A8)](https://git.io/typing-svg)
 <br><br>
 
 
